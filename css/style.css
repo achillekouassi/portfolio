@@ -226,29 +226,25 @@ span {
   border-radius: 0.5rem;
 }
 .html-bar {
-  width: 94%;
+  width: 80%;
 }
 .css-bar {
-  width: 84%;
+  width: 75%;
 }
 .js-bar {
-  width: 50%;
+  width: 40%;
 }
 .php-bar {
-  width: 70%;
+  width: 60%;
 }
 
 .angular-bar {
   width: 60%;
 }
-.django-bar {
-  width: 20%;
-}
-.flask-bar {
-  width: 20%;
-}
+
+
 .flutter-bar {
-  width: 20%;
+  width: 30%;
 }
 .services-content {
   display: grid;
